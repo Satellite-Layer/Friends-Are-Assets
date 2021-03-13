@@ -1,2 +1,2 @@
 # Friends-Are-Assets
-Create joint invesment portfolios with friends and track performance.
+Create joint investment portfolios with friends, discuss and track shared stock portfolio performance.
