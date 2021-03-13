@@ -1,2 +1,2 @@
 # Friends-Are-Assets
-Create joint investment portfolios with friends, discuss and track shared stock portfolio performance.
+Create stock or property investment portfolios, in a dashboard with supporting data that can be shared in private. 
