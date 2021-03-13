@@ -1,2 +1,2 @@
 # Friends-Are-Assets
-Allows users to create private links with select users to discuss and share investment opportunities, tracked in a shared investment dashboard.
+Allows users to create private links with selected other users to discuss and share investment opportunities, tracked in a shared dashboard.
