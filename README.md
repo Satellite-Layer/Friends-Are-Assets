@@ -18,6 +18,8 @@ Signs:
 X Filters:
   Hard to get started
   Boring space
+  Seems too ambitious
+  Too many competitors
     
 ```
 Comments:
