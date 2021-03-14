@@ -1,2 +1,2 @@
 # Friends-Are-Assets
-Allow users to connect and track each other's stock portfolios.
+Allow users to join stock portfolios in a shared dashboard.
