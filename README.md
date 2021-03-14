@@ -3,12 +3,12 @@ Friends Are Assets allow user to join stock portfolios in a shared dashboard.
 
 ```
 Idea Criteria Score:
-  How big is the idea? How big could it be? (5/10) ex. Coinbase and Bitcoin adoption.
-  Founder/market fit (5/10) ex. Flexport and having international trade expertise.
+  How big is the idea? How big could it be? (2/10) ex. Coinbase and Bitcoin adoption.
+  Founder/market fit (9/10) ex. Flexport and having international trade expertise.
   How sure are you that this is solving an acute problem? (1/10) 
-  Have a new insight? (1/10) ex. AirBnB and couchsurfing. 
-
-Overall score:
+  Have a new insight? (3/10) ex. AirBnB and couchsurfing. 
+  
+Overall score: 3.75
 
 Signs:
   This is something the founders themselves personally want
