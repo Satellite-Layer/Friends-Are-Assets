@@ -9,7 +9,6 @@ Idea Criteria Score:
   Have a new insight? (2/10)
   
 Overall score: 
-
 Comments:
-The new paradigm is people will not have to use stockbrokers or hedge funds in the future. As more financial data becomes available, trading with a broker who manage stock portfolios will make less sense as brokers get replaced by artificial intelligence. There is a way to upend this future. Prevent people from diversifying and encourage investing in select companies as investments. As per hedging, the most powerful macroeconomic algorithms will be placed in the hands of every individual to level the playing field as per hedging. Examples of these include statistical techniques that track day to day trade volume and quantum annealing techniques that use quantum computing to balance stock portfolios.
 ```
+> The new paradigm is people will not have to use stockbrokers or hedge funds in the future. As more financial data becomes available, trading with a broker who manage stock portfolios will make less sense as brokers get replaced by artificial intelligence. There is a way to upend this future. Prevent people from diversifying and encourage investing in select companies as investments. As per hedging, the most powerful macroeconomic algorithms will be placed in the hands of every individual to level the playing field as per hedging. Examples of these include statistical techniques that track day to day trade volume and quantum annealing techniques that use quantum computing to balance stock portfolios.
